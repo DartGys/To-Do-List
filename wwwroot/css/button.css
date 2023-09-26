@@ -1,0 +1,49 @@
+﻿
+.button-delete {
+    background-color: #e92a00; /* Колір фону */
+    color: #fff; /* Колір тексту */
+    padding: 10px 20px; /* Внутрішні відступи (верхні/нижні та ліві/праві) */
+    border: none; /* Видалення рамки */
+    border-radius: 5px; /* Закруглені кути */
+    cursor: pointer; /* Змінює курсор при наведенні */
+    transition: background-color 0.3s ease; /* Плавний перехід кольору фону */
+}
+
+    /* Змінюємо колір кнопки при наведенні миші */
+    .button-delete:hover {
+        background-color: #a51d00;
+    }
+
+
+.button-delete-task {
+    background-color: #e92a00; /* Колір фону */
+    color: #fff; /* Колір тексту */
+    padding: 5px 10px; /* Внутрішні відступи (верхні/нижні та ліві/праві) */
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none; /* Видалення рамки */
+    border-radius: 5px; /* Закруглені кути */
+    cursor: pointer; /* Змінює курсор при наведенні */
+    transition: background-color 0.3s ease; /* Плавний перехід кольору фону */
+}
+
+    /* Змінюємо колір кнопки при наведенні миші */
+    .button-delete-task:hover {
+        background-color: #a51d00;
+    }
+
+
+.button-add {
+    background-color: #1bc100; /* Колір фону */
+    color: #fff; /* Колір тексту */
+    padding: 10px 20px; /* Внутрішні відступи (верхні/нижні та ліві/праві) */
+    border: none; /* Видалення рамки */
+    border-radius: 5px; /* Закруглені кути */
+    cursor: pointer; /* Змінює курсор при наведенні */
+    transition: background-color 0.3s ease; /* Плавний перехід кольору фону */
+}
+
+    .button-add:hover {
+        background-color: #148802;
+    }
+
